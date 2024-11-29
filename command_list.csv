@@ -1,0 +1,124 @@
+    1  man ls
+    2  man ls
+    3  man is
+    4  man Ls
+    5  help
+    6  help ls
+    7  ls
+    8  ls
+    9  clear
+   10  dir
+   11  ls
+   12  ls
+   13  ls
+   14  ls
+   15  cd
+   16  cd desktop
+   17  ls
+   18  cd My documents
+   19  ls
+   20  cd Local Settings
+   21  cd ~
+   22  pwd
+   23  pwd
+   24  clear
+   25  ls-l
+   26  ls l
+   27  ls -a
+   28  ls-1
+   29  cd My Documents
+   30  'cd 'clear
+   31  clear
+   32  pwd'
+   33  pwd
+   34  ls
+   35  cd Postman
+   36  pwd
+   37  cd~
+   38  cd ~
+   39  pwd
+   40  ls
+   41  cd desktop/
+   42  pwd
+   43  ls
+   44  cd SQL/
+   45  pwd
+   46  cd ~
+   47  pwd
+   48  cd Desktop/
+   49  mkdir Lesson
+   50  ls
+   51  cd Lesson
+   52  type null new.txt
+   53  touch new.txt
+   54  touch new.docx
+   55  clear
+   56  ls
+   57  vim new.txt
+   58  vim new.txt
+   59  nano new.txt
+   60  cat new.txt
+   61  pwd
+   62  cp [200~/c/Users/dell/Desktop/Lesson
+   63  cp /c/Users/dell/Desktop/Lesson new.txt /c/Users/dell/Desktop/
+   64  [200~cp ^[[200~/c/Users/dell/Desktop/Lesson new.txt cp ^[[200~/c/Users/dell/Desktop/Lesson^C
+   65   cp ^[[200~/c/Users/dell/Desktop/Lesson new.txt cp ^[[200~/c/Users/dell/Desktop/Lesson/2new.txt
+   66  cp /c/UsersUsers
+   67  clear
+   68  ping Google.com
+   69  clear
+   70  date
+   71  system.profiler
+   72  system_profiler
+   73  systeminfo
+   74  df-d
+   75  dh-h
+   76  df -h
+   77  ipconfig
+   78  whoami
+   79  ls
+   80  cd Desktop/
+   81  ls
+   82  cd Git/
+   83  clear
+   84  git config --global user.name Mary Biriukova
+   85  git config --global user.email mary.gaytina88@gmail.com
+   86  git clone https://github.com/MaryBiriukova/HW_10.git
+   87  cd HW_10/
+   88  touch text_ignore.txt
+   89  ls
+   90  nano .gitignore
+   91  git status
+   92  git add .gitignore
+   93  git status
+   94  git commit -m "Update .gitignore"
+   95  git add text_ignore.txt
+   96  git status
+   97  touch main_test.txt
+   98  git add main_test.txt
+   99  git add text_ignore.txt
+  100  -f
+  101  git add -f text_ignore.txt
+  102  git status
+  103  git commit -m "New file main-test"
+  104  git branch
+  105  git checkout-b develop
+  106  git branch
+  107  git checkout -b develop
+  108  git branch
+  109  touch develop_test.txt
+  110  git add develop_test.txt
+  111  git commit-m "new branch"
+  112  git commit -m "new branch"
+  113  nano develop_test.txt
+  114  git status
+  115  git add develop_test.txt 
+  116  git status
+  117  git commit -m "Update develope_test"
+  118  git checkout main
+  119  git branch
+  120  git merge develop
+  121  git log
+  122  command_list.csv
+  123  command_list.csv
+  124  history > command_list.csv
